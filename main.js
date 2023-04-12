@@ -22,7 +22,7 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on My logo to go back
+      Click on The logo to go back
     </p>
   </div>
 `
